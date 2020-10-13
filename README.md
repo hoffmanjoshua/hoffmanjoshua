@@ -1,4 +1,4 @@
-### Hello 👋, my name's Josh (he/him)
+## Hello 👋, my name's Josh (he/him)
 I am a student at [Northwestern University](https://www.northwestern.edu) studying computer science and economics. I am passionate about tech, photography, and theatre!
 
 **📚 I'm currently obsesed with:**
