@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello 👋, my name's Josh (he/him)
+I am a student at [Northwestern University](https://www.northwestern.edu) studying computer science and economics. I am passionate about tech, photography, and theatre!
 
-<!--
-**hoffmanjoshua/hoffmanjoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📚 I'm currently obsesed with:**
+* SwiftUI
+* React
 
-Here are some ideas to get you started:
+**😍 My favorite things:**
+* My 3 dogs (Murphy, Rosie, and Archie)
+* Note-taking in markdown
+* Clean workspaces
+* Ted Lasso
+* Sports photography
+* Musical theatre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔗 Links**
+* [👤 Personal Site](https://hoffmanjoshua.dev)
+* [🐦 Twitter](https://twitter.com/joshuadhoffman)
+* [✉️ Email](mailto:hoffmanjoshua@u.northwestern.edu)
