@@ -2,8 +2,8 @@
 I am a student at [Northwestern University](https://www.northwestern.edu) studying computer science and economics. My passions include tech, photography, and theatre!
 
 ### I'm currently obsesed with:
-SwiftUI  
-React  
+📱 SwiftUI  
+🖥 React  
 
 ### My favorite things:
 🦮 My 3 dogs (Murphy, Rosie, and Archie)  
