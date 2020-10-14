@@ -1,5 +1,5 @@
 # Hello 👋, my name's Josh (he/him)
-I am a student at [Northwestern University](https://www.northwestern.edu) studying computer science and economics. My passions include tech, photography, and theatre!
+I am a student at [Northwestern University](https://www.northwestern.edu) studying computer science and economics.
 
 ### I'm currently obsesed with:
 📱 SwiftUI  
