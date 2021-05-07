@@ -14,7 +14,7 @@ I am a student at [Northwestern University](https://www.northwestern.edu) studyi
 🎭 Musical theatre  
 
 ### Most Recent Project
-[Simple Math - Write & export math expressions.](https://equation.hoffmanjoshua.dev)
+[Simple Math - Write & export math expressions.](https://math.hoffmanjoshua.dev)
 
 ### Links
 [👤 Personal Site](https://hoffmanjoshua.dev)  
