@@ -13,6 +13,9 @@ I am a student at [Northwestern University](https://www.northwestern.edu) studyi
 📸 Sports photography  
 🎭 Musical theatre  
 
+### Most Recent Project
+[Simple Math - Write & export math expressions.](https://equation.hoffmanjoshua.dev)
+
 ### Links
 [👤 Personal Site](https://hoffmanjoshua.dev)  
 [🐦 Twitter](https://twitter.com/joshuadhoffman)  
