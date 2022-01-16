@@ -10,6 +10,7 @@ I am a student at [Northwestern University](https://www.northwestern.edu) studyi
 📺 Ted Lasso  
 📸 Sports photography  
 🎭 Musical theatre  
+👨‍💻 Building stuff with SwiftUI
 
 ### Links
 [👤 Personal Site](https://hoffmanjoshua.dev)  
