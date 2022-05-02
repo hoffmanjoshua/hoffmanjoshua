@@ -13,6 +13,6 @@ I am a student at [Northwestern University](https://www.northwestern.edu) studyi
 👨‍💻 Building stuff with SwiftUI
 
 ### Links
-[👤 Personal Site](https://hoffmanjoshua.dev)  
+[👤 Personal Site](https://hoffmanjoshua.com)  
 [🐦 Twitter](https://twitter.com/joshuadhoffman)  
 [✉️ Email](mailto:hoffmanjoshua@u.northwestern.edu)  
